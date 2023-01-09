@@ -1,5 +1,5 @@
 # crossword-hack
-Small script I wrote to show crosswordlabs answers in crossword format.
+Small script I wrote to show crosswordlabs (https://crosswordlabs.com) answers in crossword format.
 
 ```js
 grid.forEach(line => {
