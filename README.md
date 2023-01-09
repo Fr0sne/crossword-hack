@@ -12,3 +12,5 @@ grid.forEach(line => {
 })
 console.log = () => {}
 ```
+
+Copy and paste this code into Chrome Developer Tools (F12 or CTRL + SHIFT + C to open) in console tab
